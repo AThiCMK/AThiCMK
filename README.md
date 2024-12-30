@@ -1,7 +1,7 @@
 # Hi there, I'm Athisundararaj S! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=AI+Evangelist+%7C+Data+Science+Student;Dreaming+to+Make+AGI+a+Reality" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=AI+Evangelist+%7C+Data+Science+Student;Dreaming+to+Make+AGI+a+Reality;Let's+Build+the+Future+with+AI" alt="Typing Animation"/>
 </p>
 
 ## 🚀 About Me
@@ -43,10 +43,9 @@ I am an **AI Evangelist** and **Data Science Enthusiast** passionate about makin
 ---
 
 ### 📚 Certifications
-<p>
-  <img src="https://img.shields.io/badge/NVIDIA-Building%20Video%20AI-blue?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Certification"/>
-  <img src="https://img.shields.io/badge/Fundamentals%20of%20Deep%20Learning-green?style=for-the-badge&logo=nvidia&logoColor=white" alt="Deep Learning Certification"/>
-</p>
+- ![NVIDIA Logo](https://img.icons8.com/color/48/000000/nvidia.png) **Building Video AI Applications at the Edge** - NVIDIA
+- ![NVIDIA Logo](https://img.icons8.com/color/48/000000/nvidia.png) **Fundamentals of Deep Learning** - NVIDIA
+- ![NVIDIA Logo](https://img.icons8.com/color/48/000000/nvidia.png) **Getting Started with AI on Jetson Nano** - NVIDIA
 
 ---
 
@@ -61,11 +60,11 @@ I am an **AI Evangelist** and **Data Science Enthusiast** passionate about makin
 
 ### 🌌 AI-Themed Animations
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AThiCMK/assets/ai-animation.gif" alt="AI Animation" width="600"/>
+  <img src="https://via.placeholder.com/600x400?text=AI+Animation+Placeholder" alt="AI Animation Placeholder" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AThiCMK/assets/ai-circuit.gif" alt="AI-themed circuit animation" width="500"/>
+  <img src="https://via.placeholder.com/500x300?text=AI+Circuit+Placeholder" alt="AI Circuit Placeholder" width="500"/>
 </p>
 
 ---
