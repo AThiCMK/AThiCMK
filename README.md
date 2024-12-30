@@ -58,16 +58,5 @@ I am an **AI Evangelist** and **Data Science Enthusiast** passionate about makin
 
 ---
 
-### 🌌 AI-Themed Animations
-<p align="center">
-  <img src="https://via.placeholder.com/600x400?text=AI+Animation+Placeholder" alt="AI Animation Placeholder" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/500x300?text=AI+Circuit+Placeholder" alt="AI Circuit Placeholder" width="500"/>
-</p>
-
----
-
 ### 🖖 Quote
 > *"AI is not just a field; it's an endless journey of learning and innovation."*
