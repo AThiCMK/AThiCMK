@@ -41,7 +41,7 @@ Automated detection and recognition of Indian number plates with >96% accuracy u
 ### 📫 Connect with Me
 - 🌐 [Portfolio](https://github.com/AThiCMK)
 - 💼 [LinkedIn](https://www.linkedin.com/in/athisundararaj-s/)
-- 📧 Email: er.ritthykm@gmail.com
+- 📧 Email: athisundararajai@gmail.com
 
 ---
 
