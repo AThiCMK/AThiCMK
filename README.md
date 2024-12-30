@@ -1,7 +1,7 @@
 # Hi there, I'm Athisundararaj S! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&center=true&vCenter=true&lines=AI+Evangelist+%7C+Data+Science+Student;Dreaming+to+Make+AGI+a+Reality;Let's+Build+the+Future+with+AI" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&center=true&vCenter=true&lines=AI+Evangelist+%7C+Data+Science+Student;Dreaming+to+Make+AGI+a+Reality;Let's+Build+the+Future+with+AI" alt="Typing Animation"/>
 </p>
 
 ## 🚀 About Me
